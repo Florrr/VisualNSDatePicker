@@ -1,5 +1,5 @@
 //
-//  TextualAndVisualDatePicekerElement.swift
+//  TextualAndVisualDatePickerElement.swift
 //
 //  Created by Flo on 15.12.18.
 //  Copyright © 2018 TheraPsy IT OG. All rights reserved.

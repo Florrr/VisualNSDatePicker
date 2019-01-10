@@ -11,7 +11,7 @@
 		5C674C5D21E72A5A00206E20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C674C5C21E72A5A00206E20 /* ViewController.swift */; };
 		5C674C5F21E72A5C00206E20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C674C5E21E72A5C00206E20 /* Assets.xcassets */; };
 		5C674C6221E72A5C00206E20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C674C6021E72A5C00206E20 /* Main.storyboard */; };
-		5C674C6B21E72AA400206E20 /* TextualAndVisualDatePicekerElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C674C6A21E72AA400206E20 /* TextualAndVisualDatePicekerElement.swift */; };
+		5C674C6B21E72AA400206E20 /* TextualAndVisualDatePickerElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C674C6A21E72AA400206E20 /* TextualAndVisualDatePickerElement.swift */; };
 		6DB4963A4C735514CC9016DF /* Pods_DatePickerTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 67B82DF57489E9B39052DB83 /* Pods_DatePickerTest.framework */; };
 /* End PBXBuildFile section */
 
@@ -23,7 +23,7 @@
 		5C674C6121E72A5C00206E20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5C674C6321E72A5C00206E20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C674C6421E72A5C00206E20 /* DatePickerTest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DatePickerTest.entitlements; sourceTree = "<group>"; };
-		5C674C6A21E72AA400206E20 /* TextualAndVisualDatePicekerElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextualAndVisualDatePicekerElement.swift; sourceTree = "<group>"; };
+		5C674C6A21E72AA400206E20 /* TextualAndVisualDatePickerElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextualAndVisualDatePickerElement.swift; sourceTree = "<group>"; };
 		67B82DF57489E9B39052DB83 /* Pods_DatePickerTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DatePickerTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FE2707DF8BB2CC64BC32D3D /* Pods-DatePickerTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DatePickerTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DatePickerTest/Pods-DatePickerTest.debug.xcconfig"; sourceTree = "<group>"; };
 		B4AD5AA68AFCBFD07243F05F /* Pods-DatePickerTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DatePickerTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-DatePickerTest/Pods-DatePickerTest.release.xcconfig"; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 				5C674C6021E72A5C00206E20 /* Main.storyboard */,
 				5C674C6321E72A5C00206E20 /* Info.plist */,
 				5C674C6421E72A5C00206E20 /* DatePickerTest.entitlements */,
-				5C674C6A21E72AA400206E20 /* TextualAndVisualDatePicekerElement.swift */,
+				5C674C6A21E72AA400206E20 /* TextualAndVisualDatePickerElement.swift */,
 			);
 			path = DatePickerTest;
 			sourceTree = "<group>";
@@ -207,7 +207,7 @@
 			files = (
 				5C674C5D21E72A5A00206E20 /* ViewController.swift in Sources */,
 				5C674C5B21E72A5A00206E20 /* AppDelegate.swift in Sources */,
-				5C674C6B21E72AA400206E20 /* TextualAndVisualDatePicekerElement.swift in Sources */,
+				5C674C6B21E72AA400206E20 /* TextualAndVisualDatePickerElement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
